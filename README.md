@@ -34,7 +34,7 @@ Tabela de conteúdos
 <!--ts-->
 - [Tabela de conteúdos](#tabela-de-conteúdos)
   - [💻 About](#-about)
-  - [The layout was a redesign from Amazon Prime UI, created by Jaqueline Gonzaga.](#the-layout-was-a-redesign-from-amazon-prime-ui-created-by-jaqueline-gonzaga)
+  - [💻 Layout](#-layout)
   - [🛠 Tecnologias](#-tecnologias)
       - [**Web**](#web)
       - [**Server**](#server)
@@ -48,9 +48,10 @@ Tabela de conteúdos
 <!--te-->
 
 ## 💻 About
-
 OMDB Movies - This project was created with the concepts of accessibility within React, with the basic functionalities expected by an accessible project: keyboard navigation, color contrast, easy reading by screen readers, good semantics.This application has a server just to save users and favorite movies, but it does not have a database because I was not focusing in created it.
+---
 
+## 💻 Layout
 The layout was a redesign from Amazon Prime UI, created by [Jaqueline Gonzaga](https://www.linkedin.com/in/jaqueline-gonzaga/).
 ---
 ## 🛠 Tecnologias
